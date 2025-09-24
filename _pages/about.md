@@ -10,9 +10,9 @@ Hello! I’m **Mingda Zhang**, an undergraduate at the School of Software, Yunna
 I’m fortunate to be mentored by **Professor [Jianglong Qin](http://www.sei.ynu.edu.cn/info/1023/1448.htm)** (Software, YNU), **Professor [Qing Xu](http://www.law.ynu.edu.cn/info/1143/3322.htm)** (Law, YNU), and **Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/)** (NUAA), whose guidance has helped me develop a systematic, problem-driven approach to AI research.
 
 ## Education and Internships
-Yunnan University, School of Software — B.Eng.(Sep 2022 – Jun 2026)
-China Telecom, Chongqing Branch (Jul 2024 – Aug 2024)
-The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) (Oct 2025 – Apr 2026), Advisor: [**Xiaoying Tang**](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
+Yunnan University, School of Software — B.Eng.(2022.9 – 2026.6)
+China Telecom, Chongqing Branch (2024.7 – 2024.8)
+The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) (2025.10 – 2026.4), Advisor: [**Xiaoying Tang**](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 
 ## Research Highlights
 **Medical Image Analysis & Segmentation**
