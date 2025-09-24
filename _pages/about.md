@@ -6,25 +6,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! I’m **Mingda Zhang**, an undergraduate at the **School of Software, Yunnan University** (Sep 2022–Jun 2026). I work on **vision–language models**, **multimodality**, **NLP**, and **computer vision**, aiming to tightly integrate language and visual signals for real-world applications in **medical imaging** and **legal analysis**. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I’m fortunate to be mentored by **Professor [Jianglong Qin](http://www.sei.ynu.edu.cn/info/1023/1448.htm)** (Software, YNU), **Professor [Qing Xu](http://www.law.ynu.edu.cn/info/1143/3322.htm)** (Law, YNU), and **Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/)** (NUAA), whose guidance has helped me develop a systematic, problem-driven approach to AI research.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-Hello! Welcome to my personal homepage. My name is Mingda Zhang, and I am currently an undergraduate student at the School of Software, Yunnan University (September 2022 – June 2026). My research interests include vision-language models, multimodality, natural language processing, and computer vision. In these areas, I am dedicated to integrating language with visual and multimodal technologies, exploring applications of intelligent systems in domains such as medical imaging and legal analysis.
-
-During my undergraduate studies, I have been fortunate to receive research guidance from Professor [Jianglong Qin](https://pages.github.com) (School of Software, Yunnan University), Professor Qing Xu (School of Law, Yunnan University), and Professor Xiaoyang Tan (Nanjing University of Aeronautics and Astronautics), which has provided me with a systematic understanding of artificial intelligence in these vertical fields.
-
-A data-driven personal website
+🔬 Research Highlights
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### 🫁 Medical Image Analysis & Segmentation
+- Author/co-author on lung disease recognition in collaboration with **Army Medical University (AMU)**.
+- Outcomes: **patents** and **peer-reviewed publications**.
+- Dataset: **Privately processed dataset with institutional ethics approval** (IRB/ethics cleared; contains sensitive medical data and cannot be released publicly).  
+  ➤ Access: available to qualified researchers under a data-use agreement and ethics compliance. *(Contact Me: yao110002@gmail.com)* 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### 🧠 Applications of Large Language Models
+- Collaborated with the **President of an Intermediate People’s Court**; our system received **multiple letters of recommendation**.
+- Produced related **publications**.
+- **Sep 2025**: National Social Science Fund of China (NSSFC) project officially approved —  
+  *“An Empirical Study on the Mechanism of Judicial Justice in the Digital-Intelligence Era under Socialism with Chinese Characteristics.”*  
+  Role: **key contributor**.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+### ⭐ GitHub — 160★ Project
+Efficient fine-tuning of LLMs for the **medical vertical**.
+ 
+[![GitHub Stars](https://img.shields.io/github/stars/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune?style=social)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
+[![Repo](https://img.shields.io/badge/Repo-DeepSeek--R1--Distill--Qwen--32B--Medical--Fine--tune-black)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
+
 
 Getting started
 ======
