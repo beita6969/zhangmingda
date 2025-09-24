@@ -17,19 +17,19 @@ I’m fortunate to be mentored by **Professor [Jianglong Qin](http://www.sei.ynu
 ## Internships
 - **China Telecom, Chongqing Branch** (Jul 2024 – Aug 2024)
 
-🔬 Research Highlights
+## Research Highlights
 ======
-### 🫁 Medical Image Analysis & Segmentation
+###  Medical Image Analysis & Segmentation
 - Author/co-author on lung disease recognition in collaboration with **Army Medical University (AMU)**.
 - Dataset: **Privately processed dataset with institutional ethics approval** (IRB/ethics cleared; contains sensitive medical data and cannot be released publicly).  
   ➤ Access: available to qualified researchers under a data-use agreement and ethics compliance. *(Contact Me: yao110002@gmail.com)* 
 
-### 🧠 Applications of Large Language Models
+###  Applications of Large Language Models
 - Collaborated with the **President of an Intermediate People’s Court**; our system received multiple letters of recommendation.
 - Sep 2025: **National Social Science Fund of China (NSSFC)** project officially approved —  
   *“An Empirical Study on the Mechanism of Judicial Justice in the Digital-Intelligence Era under Socialism with Chinese Characteristics.”*  
 
-### ⭐ GitHub — 160★ Project
+###  GitHub — 160★ Project
 Efficient fine-tuning of LLMs for the **medical vertical**.
  
 [![GitHub Stars](https://img.shields.io/github/stars/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune?style=social)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
