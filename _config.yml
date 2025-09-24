@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhang Mingda / Site Title"
+title                    : "Zhang Mingda's homepage"
 title_separator          : "-"
 name                     : &name "Zhang Mingda"
 description              : &description "Zhang Mingda's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhang Mingda"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A person who enjoys daydreaming and wandering thoughts."
   location         : "China"
   employer         : #"Red Brick University"
   uri              : # URL
