@@ -10,18 +10,20 @@ Hello! I’m **Mingda Zhang**, an undergraduate at the School of Software, Yunna
 I’m fortunate to be mentored by **Professor [Jianglong Qin](http://www.sei.ynu.edu.cn/info/1023/1448.htm)** (Software, YNU), **Professor [Qing Xu](http://www.law.ynu.edu.cn/info/1143/3322.htm)** (Law, YNU), and **Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/)** (NUAA), whose guidance has helped me develop a systematic, problem-driven approach to AI research.
 ## Education and Internships
 Yunnan University, School of Software — B.Eng.(Sep 2022 – Jun 2026)
-China Telecom, Chongqing Branch** (Jul 2024 – Aug 2024)
-The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)** (Oct 2025 – Apr 2026), Advisor: [**Xiaoying Tang**](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
+China Telecom, Chongqing Branch (Jul 2024 – Aug 2024)
+The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) (Oct 2025 – Apr 2026), Advisor: [**Xiaoying Tang**](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 
 ## Research Highlights
 **Medical Image Analysis & Segmentation**
 - Author/co-author on lung disease recognition in collaboration with **Army Medical University (AMU)**.
 - Dataset: **Privately processed dataset with institutional ethics approval** (IRB/ethics cleared; contains sensitive medical data and cannot be released publicly).  
-  ➤ Access: available to qualified researchers under a data-use agreement and ethics compliance. *(Contact Me: yao110002@gmail.com)* 
+  ➤ Access: available to qualified researchers under a data-use agreement and ethics compliance. *(Contact Me: yao110002@gmail.com)*
+  
 **Applications of Large Language Models**
 - Collaborated with the **President of an Intermediate People’s Court**; our system received multiple letters of recommendation.
 - Sep 2025: **National Social Science Fund of China (NSSFC)** project officially approved —  
-  *“An Empirical Study on the Mechanism of Judicial Justice in the Digital-Intelligence Era under Socialism with Chinese Characteristics.”*  
+  *“An Empirical Study on the Mechanism of Judicial Justice in the Digital-Intelligence Era under Socialism with Chinese Characteristics.”*
+
 **GitHub — 160★ Project**
 Efficient fine-tuning of LLMs for the **medical vertical**.
 [![GitHub Stars](https://img.shields.io/github/stars/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune?style=social)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
