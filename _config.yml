@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : {{ "/images/myphoto.png" | relative_url }}
+  avatar           : "/images/myphoto.png"
   name             : "Zhang Mingda"
   pronouns         : # example: "she/her"  
   bio              : "A person who enjoys daydreaming and wandering thoughts."
