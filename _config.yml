@@ -13,7 +13,7 @@ title                    : "Zhang Mingda's homepage"
 title_separator          : "-"
 name                     : &name "Zhang Mingda"
 description              : &description "Zhang Mingda's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://beita6969.github.io/zhangmingda.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://beita6969.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/beita6969/zhangmingda.github.io/blob/b8718286bf4ecc98c26a097534e3ffefce55ffef/images/myphoto.png"
+  avatar           : "images/myphoto.png"
   name             : "Zhang Mingda"
   pronouns         : # example: "she/her"  
   bio              : "A person who enjoys daydreaming and wandering thoughts."
