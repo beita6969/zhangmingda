@@ -46,6 +46,23 @@
   margin: 0 0.5rem;
   padding: 0.4rem 0;
 }
+/* Hide navigation bar */
+.greedy-nav {
+  display: none !important;
+}
+
+/* Home page layout improvements */
+.page__content {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+
 
     "vendor/font-awesome/brands"
 ;
