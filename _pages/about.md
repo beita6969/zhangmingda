@@ -14,8 +14,7 @@ Yunnan University, School of Software — B.Eng.(2022.9 – 2026.6)
 
 China Telecom, Chongqing Branch (2024.7 – 2024.8)
 
-The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) (2025.10 – 2026.4), Advisor: [**Xiaoying Tang**](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
-
+The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) (2025.10 – 2026.4)
 ## Research Highlights
 **Medical Image Analysis & Segmentation**
 - Author/co-author on lung disease recognition in collaboration with **Army Medical University (AMU)**.
